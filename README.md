@@ -1,7 +1,3 @@
-Sure, here's a comprehensive documentation for the Virtual Pet Game project:
-
----
-
 # Virtual Pet Game Documentation
 
 ## Introduction
