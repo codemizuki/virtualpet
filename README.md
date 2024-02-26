@@ -39,10 +39,3 @@ The code is structured into a single Python class, `VirtualPetGame`, which encap
 
 ## Dependencies
 The Virtual Pet Game has no external dependencies and only requires a Python interpreter to run.
-
-## Support
-For any issues, questions, or feedback related to the Virtual Pet Game, please feel free to contact the developer.
-
----
-
-This documentation covers the essential aspects of the Virtual Pet Game, including its features, usage instructions, code structure, dependencies, and support information. If you have any further questions or need additional assistance, please let me know!
